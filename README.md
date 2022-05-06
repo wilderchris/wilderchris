@@ -64,6 +64,5 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilderchris&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilderchris&layout=compact&theme=vision-friendly-dark)](https://github.com/wilderchris/github-readme-stats)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilderchris)](https://github.com/anuraghazra/github-readme-stats) -->
