@@ -51,8 +51,6 @@
 
 </div>
 
-
-https://www.vectorlogo.zone/util/preview.html?image=/logos/getpostman/getpostman-icon.svg
 <!---
 wilderchris/wilderchris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
