@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 - 👋 Hi, I’m @wilderchris
 - 👀 I’m interested in ...3d Printing, Hiking, Camping, movies and gaming
 - 🌱 I’m currently interested in learning something
