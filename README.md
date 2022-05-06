@@ -12,7 +12,8 @@
 </h1>
 </div>
 
-- 👋 Hi, I’m @wilderchris
+- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the US.
+
 - 👀 I’m interested in ...3d Printing, Hiking, Camping, movies and gaming
 - 🌱 I’m currently interested in learning something
 - 💞️ I’m looking to collaborate on training 
