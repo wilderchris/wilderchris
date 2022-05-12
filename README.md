@@ -65,7 +65,7 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wilderchris&theme=dark&background=000000)](https://github.com/wilderchris)
 
 
-
+---
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilderchris&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
 
