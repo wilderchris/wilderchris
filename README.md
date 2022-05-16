@@ -13,7 +13,7 @@
 </h1>
 </div>
 
-- I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the US.
+- I am a Full Stack Developer in Test <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the US.
 
 - 🌱 I’m currently interested in learning something new
 - 💞️ I’m looking to collaborate 
