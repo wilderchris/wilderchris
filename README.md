@@ -26,7 +26,7 @@
 - 🌱 I’m currently interested in learning something new
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me ... <a href="mailto:wilderchris33@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>  or   <a href="https://www.linkedin.com/in/chriswwilder/">
-    <img src="https://img.shields.io/badge/Chris Wilder-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
 
