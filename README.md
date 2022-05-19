@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif" width="300"/>
   <h1 align="center">Chris Wilder</h1>
   
 <!--   https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif -->
