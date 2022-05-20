@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/YYW0hHizzIOrlhimPG/giphy.gif" width="301"/>
   <h1 align="center">Chris Wilder</h1>
   
 <!--   https://media.giphy.com/media/1XCcD9VLQZ2Io/giphy.gif -->
@@ -28,7 +28,6 @@
 - 📫 How to reach me ... <a href="mailto:wilderchris33@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>  or   <a href="https://www.linkedin.com/in/chriswwilder/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-
 
 ---
 
