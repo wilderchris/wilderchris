@@ -36,7 +36,7 @@
 <div><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
-<img src="https://struts.apache.org/img/struts-logo.svg" title="Apache Struts 2" alt="Struts 2" width="60" height="60"/>&nbsp;
+<img src="https://struts.apache.org/img/struts-logo.svg" title="Apache Struts 2" alt="Struts 2" width="110" height="110"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django"alt="Django" width="60" height="60"/>&nbsp; 
 <img src="https://cdn.svgporn.com/logos/postman.svg" title="Postman" **alt="Postman" width="60" height="60"/>
