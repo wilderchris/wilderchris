@@ -10,8 +10,7 @@
   </a>
 </div>
   <h1>
-      <img src="s3://1wilderchris/wilderchris_a_person_excited_to_develop_software_programming_on_68980500-6a45-4381-baa3-744773b6e019-edited.webp
-" width="30px"/>
+      <img src="https://1wilderchris.s3.us-east-2.amazonaws.com/wilderchris_a_person_excited_to_develop_software_programming_on_68980500-6a45-4381-baa3-744773b6e019-edited.webp" width="30px"/>
 
     
   hey there
