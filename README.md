@@ -10,6 +10,10 @@
   </a>
 </div>
   <h1>
+      <img src="s3://1wilderchris/wilderchris_a_person_excited_to_develop_software_programming_on_68980500-6a45-4381-baa3-744773b6e019-edited.webp
+" width="30px"/>
+
+    
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
