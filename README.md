@@ -29,10 +29,9 @@
 - 🌱 I’m currently interested in learning something new
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me ... <a href="mailto:wilderchris33@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>  or   <a href="https://www.linkedin.com/in/chriswwilder/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
 
-<a href="https://codinginterface.com"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
+- and my Blog ... <a href="https://codinginterface.com"><img src="https://img.shields.io/badge/CodingInterface-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
 
 
 
