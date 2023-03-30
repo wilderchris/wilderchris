@@ -77,6 +77,7 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wilderchris&theme=dark&background=000000)](https://github.com/wilderchris)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilderchris)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Snake animation](https://github.com/wilderchris/wilderchris/blob/output/github-contribution-grid-snake.svg)
