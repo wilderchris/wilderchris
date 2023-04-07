@@ -20,7 +20,7 @@
 </div>
 
 <!-- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/dlMIwDQAxXn1K/giphy.gif" width="300"/>
   <h1 align="center">In the Zone</h1> -->
   
   ---
